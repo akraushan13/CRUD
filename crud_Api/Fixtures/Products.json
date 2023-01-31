@@ -1,0 +1,56 @@
+[
+    {
+        "model":"crud_Api.Product",
+        "pk" : 1,
+        "fields":{
+            "image" : "D:/Django_Project/crud/static/images/maaza.jpg",
+            "name"  : "Maaza",
+            "price" :   "40",
+            "description" : "Maaza claims to contain mango pulp of the Alphonso variety, which is known as the King of Mangoes in India"
+        }
+    },
+
+    {
+        "model":"crud_Api.Product",
+        "pk" : 2,
+        "fields":{
+            "image" : "D:/Django_Project/crud/static/images/maggi.jpg",
+            "name"  : "maggi",
+            "price" :   "15",
+            "description" : "Maggi noodles are dried noodles fused with oil, and sold with a packet of flavorings."
+        }
+    },
+
+    {
+        "model":"crud_Api.Product",
+        "pk" : 3,
+        "fields":{
+            "image" : "D:/Django_Project/crud/static/images/apple.jpg",
+            "name"  : "Apple",
+            "price" :   "99",
+            "description" : "The apple is one of the pome fruits."
+        }
+    },
+
+    {
+        "model":"crud_Api.Product",
+        "pk" : 4,
+        "fields":{
+            "image" : "D:/Django_Project/crud/static/images/laptop.jpg",
+            "name"  : "Lenovo IdeaPad 3",
+            "price" :   "24999",
+            "description" : "Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14ITL05 Thin and Light Laptop  (14 inch, Platinum Grey, 1.5 kg, With MS Office)"
+        }
+    },
+
+    {
+        "model":"crud_Api.Product",
+        "pk" : 5,
+        "fields":{
+            "image" : "D:/Django_Project/crud/static/images/Apple Watch.jpg",
+            "name"  : "Apple Watch",
+            "price" :   "49999",
+            "description" : "Midnight Aluminium Case with Sport Band"
+        }
+    }
+]
